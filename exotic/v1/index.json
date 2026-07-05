@@ -1,14 +1,14 @@
 {
   "schema": 1,
   "key_id": "release-internal-2026-07",
-  "sequence": 1,
-  "generated_at": 1783228111,
-  "expires_at": 1788412111,
+  "sequence": 1783230441,
+  "generated_at": 1783230441,
+  "expires_at": 1788414441,
   "plugins": [
     {
       "plugin_id": "exotic-image-psd",
-      "version": "1.0.1",
-      "package_sequence": 1,
+      "version": "1.0.2",
+      "package_sequence": 1783230441,
       "media_kind": "image",
       "formats": [
         "psd"
@@ -20,8 +20,8 @@
       "min_host_version": "0.1.0",
       "target": "x86_64-pc-windows-msvc",
       "package_url": "https://raw.githubusercontent.com/gfgjs/picasa-next-registry/main/exotic/v1/exotic-image-psd.zip",
-      "package_size": 599366,
-      "package_sha256": "a1777fc5df24fbedbe30136304a761123552d09ecda1a9fce43c31176cb9d37b"
+      "package_size": 599375,
+      "package_sha256": "e99ecda405ded1ed5a81fc682ba43a1571ec27999227ec4806007ee4fbb92bf1"
     }
   ]
 }
